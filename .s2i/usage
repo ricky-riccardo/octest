@@ -1,0 +1,4 @@
+#!/bin/bash
+cat <<EOF
+This is a sample builder image
+EOF
